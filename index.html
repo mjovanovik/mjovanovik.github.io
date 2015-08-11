@@ -19,6 +19,25 @@
 	padding-bottom: 10px;
 }
 
+.avatar {
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(images/mj.jpg) no-repeat;
+	margin-left: auto; 
+	margin-right: auto;
+	display: block;
+}
+
+.avatar img {
+	width: 150px;
+	height: 150px;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+
 .ack {
 	position: fixed;
 	bottom: 0;
@@ -66,7 +85,8 @@ body {
 	<div class="content">
 		<h1>Milos Jovanovik</h1>	
 		<h3>PhD Candidate, working in the fields of Linked Data, Open Data and the Semantic Web.</h3>
-		<div class="short-info">
+		<div class="avatar"><img src="images/mj.jpg"/></div>
+		<div class="short-info">			
 			I work as a teaching and research assistant at the <a href="http://www.finki.ukim.mk/" target="_blank">Faculty of Computer Science and Engineering</a>, in Skopje.
 			<br/>
 			I also work part-time as a Linked Data Middleware developer with <a href="http://www.openlinksw.com/" target="_blank">OpenLink Software</a>.
