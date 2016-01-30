@@ -13,7 +13,7 @@
    ; foaf:account <https://twitter.com/ymilosy> 
    ; foaf:workplaceHomepage <http://www.finki.ukim.mk/mk/staff/milos-jovanovik> 
    ; foaf:based_near "Skopje, Macedonia" 
-   ; foaf:currentProject <http://p3.fusepool.eu/> 
+   ; foaf:currentProject <http://project-hobbit.eu/> 
    ; foaf:img <http://mjovanovik.com/images/mj.jpg> 
    ; foaf:publications <http://www.nature.com/articles/srep09346> 
 . 
