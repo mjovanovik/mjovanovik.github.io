@@ -6,6 +6,8 @@
 <Me> a foaf:Person 
    ; foaf:givenName "Milos" 
    ; foaf:familyName "Jovanovik" 
+   ; foaf:name "Milos Jovanovik"@en
+   ; foaf:name "Милош Јовановиќ"@mk
    ; foaf:mbox_sha1sum "985593a51b7da1bc8bbe20bbdbd2baaa4df4b29b" 
    ; foaf:homepage <http://mjovanovik.com> 
    ; foaf:weblog <http://blog.mjovanovik.com> 
@@ -13,7 +15,8 @@
    ; foaf:account <https://twitter.com/ymilosy> 
    ; foaf:workplaceHomepage <http://www.finki.ukim.mk/mk/staff/milos-jovanovik> 
    ; foaf:based_near "Skopje, Macedonia" 
-   ; foaf:currentProject <http://project-hobbit.eu/> 
+   ; foaf:currentProject <http://mjovanovik.com/projects.html> 
+   ; foaf:pastProject <http://mjovanovik.com/projects.html> 
    ; foaf:img <http://mjovanovik.com/images/mj.jpg> 
-   ; foaf:publications <http://www.nature.com/articles/srep09346> 
+   ; foaf:publications <http://mjovanovik.com/publications.html> 
 . 
