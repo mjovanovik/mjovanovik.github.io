@@ -1,4 +1,4 @@
-@base <http://mjovanovik.com/foaf.ttl#> .
+@base <https://mjovanovik.com/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -9,14 +9,15 @@
    ; foaf:name "Milos Jovanovik"@en
    ; foaf:name "Милош Јовановиќ"@mk
    ; foaf:mbox_sha1sum "985593a51b7da1bc8bbe20bbdbd2baaa4df4b29b" 
-   ; foaf:homepage <http://mjovanovik.com> 
-   ; foaf:weblog <http://blog.mjovanovik.com> 
+   ; foaf:homepage <https://mjovanovik.com> 
+   ; foaf:weblog <https://blog.mjovanovik.com> 
    ; foaf:account <https://www.linkedin.com/in/milosjovanovik> 
    ; foaf:account <https://twitter.com/ymilosy> 
-   ; foaf:workplaceHomepage <http://www.finki.ukim.mk/mk/staff/milos-jovanovik> 
+   ; foaf:workplaceHomepage <https://www.finki.ukim.mk/mk/staff/milos-jovanovik> 
    ; foaf:based_near "Skopje, Macedonia" 
-   ; foaf:currentProject <http://mjovanovik.com/projects.html> 
-   ; foaf:pastProject <http://mjovanovik.com/projects.html> 
-   ; foaf:img <http://mjovanovik.com/images/mj.jpg> 
-   ; foaf:publications <http://mjovanovik.com/publications.html> 
+   ; foaf:currentProject <https://mjovanovik.com/projects.html> 
+   ; foaf:pastProject <https://mjovanovik.com/projects.html> 
+   ; foaf:img <https://mjovanovik.com/images/mj.jpg> 
+   ; foaf:publications <https://mjovanovik.com/publications.html> 
+   ; rdfs:seeAlso <https://mjovanovik.com> 
 . 
