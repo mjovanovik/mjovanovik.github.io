@@ -1,9 +1,9 @@
-@base <https://mjovanovik.com/foaf.ttl#> .
+@base <https://mjovanovik.com/foaf.ttl> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<Me> a foaf:Person 
+<#Me> a foaf:Person 
    ; foaf:givenName "Milos" 
    ; foaf:familyName "Jovanovik" 
    ; foaf:name "Milos Jovanovik"@en
@@ -14,7 +14,7 @@
    ; foaf:account <https://www.linkedin.com/in/milosjovanovik> 
    ; foaf:account <https://twitter.com/ymilosy> 
    ; foaf:workplaceHomepage <https://www.finki.ukim.mk/mk/staff/milos-jovanovik> 
-   ; foaf:based_near "Skopje, Macedonia" 
+   ; foaf:based_near <http://dbpedia.org/resource/Skopje>
    ; foaf:currentProject <https://mjovanovik.com/projects.html> 
    ; foaf:pastProject <https://mjovanovik.com/projects.html> 
    ; foaf:img <https://mjovanovik.com/images/mj.jpg> 
