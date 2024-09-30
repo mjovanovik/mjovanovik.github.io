@@ -8,6 +8,7 @@
    ; foaf:familyName "Jovanovik" 
    ; foaf:name "Milos Jovanovik"@en
    ; foaf:name "Милош Јовановиќ"@mk
+   ; foaf:title "Dr."@en
    ; foaf:mbox_sha1sum "985593a51b7da1bc8bbe20bbdbd2baaa4df4b29b" 
    ; foaf:homepage <https://mjovanovik.com> 
    ; foaf:weblog <https://blog.mjovanovik.com> 
