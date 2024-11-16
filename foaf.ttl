@@ -9,12 +9,19 @@
    ; foaf:name "Milos Jovanovik"@en
    ; foaf:name "Милош Јовановиќ"@mk
    ; foaf:title "Dr."@en
+   ; foaf:title "Др."@en
    ; foaf:mbox_sha1sum "985593a51b7da1bc8bbe20bbdbd2baaa4df4b29b" 
    ; foaf:homepage <https://mjovanovik.com> 
    ; foaf:weblog <https://blog.mjovanovik.com> 
    ; foaf:account <https://www.linkedin.com/in/milosjovanovik> 
-   ; foaf:account <https://twitter.com/ymilosy> 
-   ; foaf:workplaceHomepage <https://www.finki.ukim.mk/mk/staff/milos-jovanovik> 
+   ; foaf:account <https://scholar.google.com/citations?user=mbpVbcwAAAAJ>
+   ; foaf:account <https://www.researchgate.net/profile/Milos-Jovanovik>
+   ; foaf:account <https://www.webofscience.com/wos/author/record/AAY-2580-2020>
+   ; foaf:account <https://www.semanticscholar.org/author/Milos-Jovanovik/2730294>
+   ; foaf:account <https://orcid.org/0000-0001-7360-8015>
+   ; foaf:account <https://www.bibsonomy.org/person/m.jovanovik>
+   ; foaf:account <https://loop.frontiersin.org/people/219053/overview>
+   ; foaf:workplaceHomepage <https://www.finki.ukim.mk/en/staff/milos-jovanovik> 
    ; foaf:based_near <http://dbpedia.org/resource/Skopje>
    ; foaf:currentProject <https://mjovanovik.com/projects.html> 
    ; foaf:pastProject <https://mjovanovik.com/projects.html> 
