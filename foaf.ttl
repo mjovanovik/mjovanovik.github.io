@@ -21,7 +21,8 @@
    ; foaf:account <https://orcid.org/0000-0001-7360-8015>
    ; foaf:account <https://www.bibsonomy.org/person/m.jovanovik>
    ; foaf:account <https://loop.frontiersin.org/people/219053/overview>
-   ; foaf:workplaceHomepage <https://www.finki.ukim.mk/en/staff/milos-jovanovik> 
+   ; foaf:workplaceHomepage <https://www.finki.ukim.mk/en/staff/milos-jovanovik>
+   ; foaf:workplaceHomepage <https://tiss.tuwien.ac.at/person/423570.html> 
    ; foaf:based_near <http://dbpedia.org/resource/Skopje>
    ; foaf:currentProject <https://mjovanovik.com/projects.html> 
    ; foaf:pastProject <https://mjovanovik.com/projects.html> 
