@@ -9,7 +9,7 @@
    ; foaf:name "Milos Jovanovik"@en
    ; foaf:name "Милош Јовановиќ"@mk
    ; foaf:title "Dr."@en
-   ; foaf:title "Др."@en
+   ; foaf:title "Др."@mk
    ; foaf:mbox_sha1sum "985593a51b7da1bc8bbe20bbdbd2baaa4df4b29b" 
    ; foaf:homepage <https://mjovanovik.com> 
    ; foaf:weblog <https://blog.mjovanovik.com> 
@@ -22,8 +22,8 @@
    ; foaf:account <https://www.bibsonomy.org/person/m.jovanovik>
    ; foaf:account <https://loop.frontiersin.org/people/219053/overview>
    ; foaf:workplaceHomepage <https://www.finki.ukim.mk/en/staff/milos-jovanovik>
-   ; foaf:workplaceHomepage <https://tiss.tuwien.ac.at/person/423570.html> 
-   ; foaf:based_near <http://dbpedia.org/resource/Skopje>
+   ; foaf:workplaceHomepage <https://informatics.tuwien.ac.at/people/milosh-jovanovikj> 
+   ; foaf:based_near <http://dbpedia.org/resource/Vienna>
    ; foaf:currentProject <https://mjovanovik.com/projects.html> 
    ; foaf:pastProject <https://mjovanovik.com/projects.html> 
    ; foaf:img <https://mjovanovik.com/images/mj.jpg> 
