@@ -3,6 +3,7 @@
 <head>
 <link rel="icon" href="favicon.ico" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Dr. Milos Jovanovik | Office Hours</title>
 </head>
 <!-- Google tag (gtag.js) -->
@@ -17,17 +18,24 @@
 <style>
 
 .content {
-	width: 700px;
-	margin-left: auto; 
+	max-width: 700px;
+	margin-left: auto;
 	margin-right: auto;
 	display: block;
 }
 
 .link-list {
 	text-align: left;
-	width: 600px;
-	margin-left: auto; 
+	max-width: 600px;
+	margin-left: auto;
 	margin-right: auto;
+}
+
+@media (max-width: 767px) {
+	.content {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
 }
 
 .ack {
