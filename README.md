@@ -1,2 +1,2 @@
 # mjovanovik.github.io
-My landing website, available at http://mjovanovik.com/.
+My landing website, available at https://mjovanovik.com/.
